@@ -38,6 +38,6 @@ After the analyze, we can summary and proposed some key insights for business
 - Many Potential Loyalists emerge, mean that we need to re-engagement on them and for who haven't purchased last 30-40 days
 
 # Visualization
-![RFM Analysis](./assets/SUMMARY_PAGE_1.png)
+![RFM Analysis](./Assets/SUMMARY_PAGE_1.png)
 
-![RFM Analysis](./assets/SUMMARY_PAGE_2.png)
+![RFM Analysis](./Assets/SUMMARY_PAGE_2.png)
