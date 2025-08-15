@@ -37,3 +37,7 @@ After the analyze, we can summary and proposed some key insights for business
 - United Kingdom emerge as not only the highest spenders but also highest in frequency, making efforts on United Kingdom and explore more on Netherlands and Ireland.
 - Many Potential Loyalists emerge, mean that we need to re-engagement on them and for who haven't purchased last 30-40 days
 
+# Visualization
+![RFM Analysis](./assets/SUMMARY_PAGE_1.png)
+
+![RFM Analysis](./assets/SUMMARY_PAGE_2.png)
